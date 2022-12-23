@@ -16,7 +16,7 @@
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/1055909269276459170/1055918762638970880/IMG_3258.png?width=676&height=676">
+  <img align="right" alt="Thiago-pic" height="200" width="200" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/1055909269276459170/1055927098671366195/me.gif">
 </div>
 
   ##
