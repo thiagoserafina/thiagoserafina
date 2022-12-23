@@ -1,9 +1,13 @@
-## Hii! I am Thiago Serafina
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8FA6C6&height=120&section=header"/>
 
-- 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning TypeScript and React
-- 😄 Pronouns: He/Him/They/Them
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8FA6C6&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+Nice+to+meet+you!;My+name+is+Thiago+Serafina;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+🔭 I’m currently working with front-end<br>
+🌱 I’m currently learning TypeScript and React<br>
+😄 Pronouns: He/Him/They/Them<br><br>
+</div>
+  
 <div align="center">
   <a href="https://github.com/thiagoserafina">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagoserafina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
