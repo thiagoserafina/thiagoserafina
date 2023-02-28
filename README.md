@@ -4,7 +4,7 @@
 
 <div align="center">
 🔭 I’m currently working with front-end<br>
-🌱 I’m currently learning TypeScript and React<br>
+🌱 I’m currently learning React<br>
 😄 Pronouns: he/him/they/them<br><br>
 </div>
   
