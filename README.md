@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8FA6C6&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+Nice+to+meet+you!;My+name+is+Thiago+Serafina;I'm+23+years+old;I+live+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-🔭 I’m currently working with front-end<br>
-🌱 I’m currently learning React<br>
+🔭 Currently working with front-end<br>
+🌱 Currently learning React and Flutter<br>
 😄 Pronouns: he/him/they/them<br><br>
 </div>
   
