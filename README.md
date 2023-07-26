@@ -7,12 +7,14 @@
 🌱 Currently learning React and Flutter<br>
 😄 Pronouns: he/him/they/them<br><br>
 </div>
-  
+
+<!--- Mudar para uma instância privada, pois a pública não atualiza mais!!
 <div align="center">
   <a href="https://github.com/thiagoserafina">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thiagoserafina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoserafina&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+-->
 
 <!---
 https://github-readme-stats.vercel.app
