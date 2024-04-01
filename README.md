@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8FA6C6&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+Nice+to+meet+you!;My+name+is+Thiago;I'm+24+years+old;I+live+in+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<header align="center">
 🔭 Currently working with front-end and mobile<br>
 🌱 Currently learning AngularJS<br>
 😄 Pronouns: he/him/they/them<br><br>
-</div>
+</header>
 
 <!--- Mudar para uma instância privada, pois a pública não atualiza mais!!
 <div align="center">
@@ -19,14 +19,15 @@
 <!---
 https://github-readme-stats.vercel.app
 -->
+
+<main>
   
-<div style="display: inline_block"><br>
-  <img align="right" alt="Thiago-pic" height="200" width="200" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/1055909269276459170/1055927098671366195/me.gif?ex=661988be&is=660713be&hm=655befba4a3ae0f872f9a5644b325cb0d594ad62cd24002ffc7a4f2ebb6f2fd1&">
+## Tools
+
+<div style="display: flex" height="auto">
+  <img align="right" alt="Thiago-pic" height="150" width="150" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/1055909269276459170/1055927098671366195/me.gif?ex=661988be&is=660713be&hm=655befba4a3ae0f872f9a5644b325cb0d594ad62cd24002ffc7a4f2ebb6f2fd1&">
 </div>
 
-<div>
-
-## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -34,6 +35,8 @@ https://github-readme-stats.vercel.app
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+<br/>
 
 ## Programing
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,4 +65,4 @@ https://github-readme-stats.vercel.app
 <a href = "mailto:thiagoserafina@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/thiago-serafina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>
+</main>
