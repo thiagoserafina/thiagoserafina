@@ -21,7 +21,7 @@ https://github-readme-stats.vercel.app
 -->
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Thiago-pic" height="200" width="200" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/1055909269276459170/1055927098671366195/me.gif">
+  <img align="right" alt="Thiago-pic" height="200" width="200" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/1055909269276459170/1055927098671366195/me.gif?ex=661988be&is=660713be&hm=655befba4a3ae0f872f9a5644b325cb0d594ad62cd24002ffc7a4f2ebb6f2fd1&">
 </div>
 
 <div>
