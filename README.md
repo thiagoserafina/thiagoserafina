@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8FA6C6&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+Nice+to+meet+you!;My+name+is+Thiago;I'm+25+years+old;I+live+in+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
 <header align="center">
-🔭 Currently working with front-end and mobile<br>
-🌱 Currently learning AngularJS<br>
-😄 Pronouns: he/him/they/them<br><br>
+🔭 Currently working as a Full-Stack Developer<br>
+🌱 Currently expanding my knowledge in back-end development<br>
+😄 Pronouns: he/him<br><br>
 </header>
 
 <!--- Mudar para uma instância privada, pois a pública não atualiza mais!!
